@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="GitHub-Profile.png"
+  <img src="IT-Logo.png"
        width="380"
        style="border-radius:50%;"
        alt="Al-Germaniyya IT Group Logo">
