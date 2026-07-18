@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Germaniyya_Logo_-_Copy-removebg-preview.png"
+<img src="Germaniyya Logo - Copy.jpg"
      width="170"
      alt="Al-Germaniyya IT Group Logo">
 
