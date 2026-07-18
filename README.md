@@ -3,6 +3,7 @@
 <p align="center">
   <img src="GitHub-Profile.png"
        width="380"
+       style="border-radius:50%;"
        alt="Al-Germaniyya IT Group Logo">
 </p>
 
