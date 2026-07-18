@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="IT-Germaniyya/GitHub-Profile.png"
+<img src="GitHub-Profile.png"
      width="170"
      alt="Al-Germaniyya IT Group Logo">
 
